@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# ComfyUI
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Stable Diffision 的一个 UI ._
 
 </header>
 
@@ -19,21 +19,15 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Define terms and link to docs.github.com.
   Historic note: previous version checked the homepage content was not empty.
 -->
+### 为什么网上教程那么多还要写
+- 我看不太懂
 
-## Step 3: Customize your homepage
+- 我想用自己的学习方法
+  - 从使用的步骤开始学习
 
-_Nice work setting the theme! :sparkles:_
+- 我想通过表达来测试自己的学习效果
 
-You can customize your homepage by adding content to either an `index.md` file or the `README.md` file. GitHub Pages first looks for an `index.md` file. Your repository has an `index.md` file so we can update it to include your personalized content.
 
-### :keyboard: Activity: Create your homepage
-
-1. Browse to the `index.md` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Type the content you want on your homepage. You can use Markdown formatting on this page.
-1. (optional) You can also modify `title:` or just ignore it for now. We'll discuss it in the next step.
-1. Commit your changes to the `my-pages` branch.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
 
@@ -46,6 +40,6 @@ You can customize your homepage by adding content to either an `index.md` file o
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
