@@ -10,6 +10,7 @@
 - 正向提示词
 - 反向提示词
 ## Empty Latent Image
+![](https://www.comfyuidoc.com/assets/EmptyLatentImage-D8EMT608.svg)
 - 设置图像大小
 ## KSmapler 采样器设置
 ![](https://www.comfyuidoc.com/assets/KSampler-LOr6cHLj.svg)
@@ -26,9 +27,13 @@
     - 调度算法
 - denoise
     - 初始噪声值
+
 ## Vae 
+![](https://www.comfyuidoc.com/assets/VAEDecode-B-picWPt.svg)
 - 变分自编码器
 - 图像处理
 ## Save Image
-_以上就是出一张图的基本流程_
+![](https://www.comfyuidoc.com/assets/SaveImage-z3yAym7e.svg)
+
+_以上就是出一张图的基本操作流程_
 

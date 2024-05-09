@@ -1,9 +1,7 @@
 <!-- _coverpage.md -->
 
-# ComfyUI Study 
+# ComfyUI
 
 > 💪学习记录
-
-
 
 [Let Go](/README.md)

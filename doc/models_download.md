@@ -1,9 +1,13 @@
 # Models Download
-## Hugging Face
+## Manual Download
+- Hugging Face
+
 [Hugging Face – The AI community building the future.](https://huggingface.co)
 
-## Civitai
+-  Civitai
+
 [Civitai: The Home of Open-Source Generative AI](https://civitai.com)
+
 ## Tips
 - 去模型网站看看别人的图片用的什么模型，参数设置
 - 模型种类：
@@ -32,8 +36,10 @@
 
 ```sh
 # git clone <repository-url> custom_nodes
-git clone https://github.com/ltdrdata/ComfyUI-Manager.git custom_nodes/ComfyUI-Manager
+cd custom_nodes
+git clone https://github.com/ltdrdata/ComfyUI-Manager.git 
 
 # AIGODLIKE-ComfyUI-Translation  汉化
 # ControlNet  
+# 重启 comfyui 生效
 ```
