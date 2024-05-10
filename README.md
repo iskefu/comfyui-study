@@ -27,6 +27,8 @@ _Stable Diffision 的一个 UI ._
 
 - 我想通过表达来测试自己的学习效果
 
+- github pages：https://iskefu.github.io/comfyui-study/
+
 <footer>
 
 <!--

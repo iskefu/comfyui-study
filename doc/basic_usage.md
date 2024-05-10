@@ -38,16 +38,17 @@
 			 - 如果想生成一些简单的结果，可以用 Euler 或 Heun。在使用 Heun 时，可以调低一些步数来节省时间。
 - scheduler
     - 调度算法
-    - karras：
+		- normal：
+		- karras：
 - denoise
     - 初始噪声值
-
+	
 ## Vae 
 ![](https://www.comfyuidoc.com/assets/VAEDecode-B-picWPt.svg)
 - 变分自编码器
-- 图像处理
+- 图像编码和解码
 ## Save Image
 ![](https://www.comfyuidoc.com/assets/SaveImage-z3yAym7e.svg)
 
-_以上就是出一张图的基本操作流程_
+_以上就是出一张图的基本操作流程，后面是案例实践_
 
