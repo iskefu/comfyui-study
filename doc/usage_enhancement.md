@@ -15,13 +15,11 @@
 -  提示词增强
 - 下载 `embedding` 模型放在`models/embeddings` 文件夹内
 
-
 - 加载模型
 
 _右键单击 CLIP Text Encode 节点,
 然后选择顶部选项“Prepend Embedding Picker”。
 如果直接连接到text的embedding节点，则append 设置为true_
-
 
 ## loRA
 ![LoadLoRA-Bng2EN8f.svg](https://www.comfyuidoc.com/assets/LoadLoRA-Bng2EN8f.svg)
@@ -50,3 +48,8 @@ _右键单击 CLIP Text Encode 节点,
 	- 
 - upscale
 ![LoadUpscaleModel-C74PIl6V.svg](https://www.comfyuidoc.com/assets/LoadUpscaleModel-C74PIl6V.svg)
+
+## 采样器
+
+![](https://file.jishuzhan.net/article/1777525178465521666/33aa107a108666d5038166b66352fb6d.webp)
+
