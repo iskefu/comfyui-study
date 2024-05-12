@@ -18,7 +18,7 @@ _果然性是人类第一动力_
 - 开始炼丹
 - 参数：工作流： [comfyui-study/data/case1.json at main · iskefu/comfyui-study · GitHub](https://github.com/iskefu/comfyui-study/blob/main/data/case1.json)
 	- _没有 下载他 prompt 里的 lora，只是加载了他给出的 lora 连接_
-- 生成效果：![](https://s2.loli.net/2024/05/09/qjWIfMpGV9JunXe.png)
+- 生成效果：https://civitai.com/posts/2683657
 - 分析结果：
 	- 眼睛不自然，（他的 prompt 里包含很多 lora 我只下载他给出的两个 lora ，初步猜测可能是这个引起的 ）
 	- 清晰度不够，（没有使用 upscale 放大图片，可能是这个原因）
@@ -28,7 +28,6 @@ _果然性是人类第一动力_
 	- 清晰度问题就是没有使用 upscale ，
 		- 加载 upscale，下载模型 : 放在 `model/upscale_models`, vaedecode 节点后面插入：图像--放大---图像通过模型放大。图像通过模型放大节点的放大模型连接到：加载器--放大模型加载器。
 	- 下载全部 lora, 还是多张图片都不理想，可以考虑为采样算法带a,不能完全复现图片。
-		- ![ComfyUI_00001_.png](https://s2.loli.net/2024/05/10/KhmrUiuM9japPBQ.png)
 	- 眼睛有点古怪，可以看到虽然不能复现，但是可以增加眼睛或者面部 lora 改善这个情况，
 	- 多次生成都是这个动作姿势，可能是vae解码模型不一样
 ## 总结

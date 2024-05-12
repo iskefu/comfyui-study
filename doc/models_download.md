@@ -1,4 +1,4 @@
-# Models Download
+# ComfyUI Models Download
 ## Manual Download
 - Hugging Face
 
