@@ -1,3 +1,5 @@
+# ComfyUI Examples 3
+
 # ControlNet
 参考网址：https://www.comfyuidoc.com/zh/Examples/controlnet/
 
@@ -23,9 +25,8 @@
 # 案例三 复刻赛博女杀手
 有了 control net 后面复刻会好很多，
 准备复刻一张什么信息都没有的图片：![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c5b7e6a6-b9dc-4cc6-a981-e9036a972a3e/original=true/45.jpeg)
-- 模型：https://civitai.com/models/36520/ghostmix?modelVersionId=76907
+- 模型：[GhostMix - v2.0-BakedVAE | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/36520/ghostmix?modelVersionId=76907)
 - 写prompt：
-  - 拿着枪站着的机械女孩，苗条，细腿，（肖像），飘散的长黑发，细腰，户外，全局光照，阴影，辛烷渲染，8k，金属，逼真光线， cgociety 趋势、机械肢体、
 - 利用controlnet固定姿势，和外表大概样子，
 - 最终得到如下效果：
   - https://civitai.com/posts/2672387
@@ -38,3 +39,4 @@
 ## 总结
 - 虽然没有百分百复刻出来，但是作者什么信息都没给，这个程度，以我的初学者水平能够接受，
 - 参数
+2024-05-20_ 19:14[Page Not Found](https://civitai.com/posts/2883180)

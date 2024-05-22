@@ -1,5 +1,4 @@
-
-# basic usage
+# ComfyUI Basic Usage
 
 ##  Load Checkpoint 
  ![LoadCheckpointWithConfig-BN6zB4MN.svg](https://www.comfyuidoc.com/assets/LoadCheckpointWithConfig-BN6zB4MN.svg)
